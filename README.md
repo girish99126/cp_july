@@ -5,4 +5,4 @@ In this repo .I want to solve at least 3 problem a day  for interview preparatio
 
 #### [Separate-The-Numbers](https://github.com/kadambarigirish/cp_july/tree/main/separate-the-numbers-English)👈
 #### [Funny-String](https://github.com/kadambarigirish/cp_july/tree/main/funny-string)👈
-
+#### [Gem-Stones](https://github.com/kadambarigirish/cp_july/tree/main/Gem-Stones)👈
