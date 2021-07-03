@@ -1,5 +1,11 @@
 # CP_july
 In this repo .I want to solve at least 3 problem a day  for interview preparation.If you want to join with let take this challange with my friends Ravi ,Sameer we three took this challange for  upcomming interviews
+
+
+
+## Interview Preparation Kit HackerRank Solutions
+[Interview Preparation Kit Solutions](https://github.com/kadambarigirish/cp_july/tree/main/interview_prepartion_kit_hacker_rank_sol/warm-up-challenges)
+
 ## 10 Days of Statistics😂👇
 [10 Days of Statistics](https://github.com/kadambarigirish/cp_july/tree/main/10%20Days%20of%20Statistics)👈
 
