@@ -3,8 +3,8 @@ In this repo .I want to solve at least 3 problem a day  for interview preparatio
 
 
 
-## Interview Preparation Kit HackerRank Solutions
-[Interview Preparation Kit Solutions](https://github.com/kadambarigirish/cp_july/tree/main/interview_prepartion_kit_hacker_rank_sol/warm-up-challenges)
+## Interview Preparation Kit HackerRank Solutions👇
+[Interview Preparation Kit Solutions](https://github.com/kadambarigirish/cp_july/tree/main/interview_prepartion_kit_hacker_rank_sol)👈
 
 ## 10 Days of Statistics😂👇
 [10 Days of Statistics](https://github.com/kadambarigirish/cp_july/tree/main/10%20Days%20of%20Statistics)👈
